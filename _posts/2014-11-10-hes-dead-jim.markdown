@@ -1,8 +1,8 @@
 ---
-title: 'He&#8217;s Dead Jim&#8230;.'
-date: 2014-11-10T18:46:31+00:00
-author: Chuck Lindblom
 layout: post
+title: "He's Dead Jim..."
+date:  2014-011-10 10:00:00 -0500
+
 categories:
   - Guides
   - News
