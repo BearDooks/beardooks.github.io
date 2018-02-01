@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Simple Port Checking Tool &#8211; AutoIT'
-date: 2016-06-13T15:53:07+00:00
+date: 2016-06-13 15:53:07 -0500
 author: Chuck Lindblom
 
 categories:
