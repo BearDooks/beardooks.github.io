@@ -4,14 +4,14 @@ title:  "New Them Installed"
 date:   2018-02-01 09:30:12 -0500
 
 categories: 
-	- jekyll
-	- update
-	- theme
-	- git
+  - jekyll
+  - update
+  - theme
+  - git
 tags:
-	- git
-	- themes
-	- jekyll
+  - git
+  - themes
+  - jekyll
 ---
 Still working on everything, but I finally have a new theme installed on the site and I am getting better at using git to get everything updated and working the way I need it to.
 
