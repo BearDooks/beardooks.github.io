@@ -20,6 +20,7 @@ tags:
 Recently I have been working in HTML with <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>. Bootstrap is a simple framework, yet crazy powerful tool for building websites. To be 100% honest with you I enjoy using it more than WordPress these days. I find it much easier to use, and I don&#8217;t have to worry about plugins needing to be updated every other day, or people hacking into a database.
 
 ![bootstrap]({{ "/img/bootstrap.jpg" | absolute_url }})
+![html5]({{ "/img/html5.png" | absolute_url }})
 
 
 ### Pros:
