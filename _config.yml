@@ -25,7 +25,6 @@ description: A Site For Tech News And General Hoop-La…
 navbar-links:
   About: "about"
   Resume: "resume"
-  Blog: "blog"
   Projects:
     - LightsOut! Android App: "https://play.google.com/store/apps/details?id=org.JingoJangoStudios.lightsout"
 
