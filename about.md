@@ -1,24 +1,11 @@
 ---
 layout: page
-title: About me
+title: About
 permalink: /about/
-banner_image: sample-banner-image-2.jpg
-banner_image_alt: About me
 ---
 
-Hi, I am Tom Warlker. I am a professional UI/UX designrer and web developer. I love being minimal and creative.
+Welcome to Chucklindblom.com
 
-I prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+A site to get general Tech News, Reviews, and General Hoop-La about nothing in particular. On here you will find scripts I write to make life easy, thoughts on events, and projects I am working on.
 
-### Contact me
-
-Say `Hello` at gayanvirajith@gmail.com or find
-me on
-
----
-
-{% include social.html %}
-
-[pw]: http://processwire.com
-[jekyll]: http://jekyllrb.com
+I try to keep this site updated as best I can but I find during the week I don’t have time, or don’t feel the urge to write, but that should all be changing soon. I would like to start weekly posts, about anything to start, and then move on from there. So stay tuned.
