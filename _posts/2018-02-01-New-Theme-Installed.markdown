@@ -22,7 +22,7 @@ $ git add .
 $ git commit
 	[master cf03026] color fixes
 	1 file changed, 4 insertions(+), 4 deletions(-)
-git push
+$ git push
 	Counting objects: 3, done.
 	Delta compression using up to 4 threads.
 	Compressing objects: 100% (3/3), done.

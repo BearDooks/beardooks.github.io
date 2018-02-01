@@ -31,8 +31,6 @@ It pains me to admit that after years and years in the IT field, I was finally b
 
 On November 5th 2014, I was at work when I needed to SSH back home to check on something. From my work machine I tried to SSH home, but I was greeted with a &#8216;Connection Refused&#8217; message in my terminal. Thinking that it was odd, I tried to RDP back to the Windows Server at my house, but again the connection would not start. Checking on the sites that I normally run from my server, I began to get nervous when none of them would load.
 
-<!--more-->
-
 As a last ditch effort I tried to FTP back to the server to see if there was anything I could get to, but again I was greeted by an error message that told me a connection was not going to happen.
 
 The only thing I could actually connect to was my Wireless Camera that I use to monitor the baby at night in her crib. This was the straw that broke my back and sent me into a full panic. This meant there was an issue with the ESX host at home.
