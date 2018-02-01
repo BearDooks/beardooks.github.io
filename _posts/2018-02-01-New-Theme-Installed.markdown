@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Them Installed"
+title:  "New Theme Installed"
 date:   2018-02-01 09:30:12 -0500
 
 categories: 
