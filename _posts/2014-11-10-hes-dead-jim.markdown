@@ -1,12 +1,8 @@
 ---
-id: 16
 title: 'He&#8217;s Dead Jim&#8230;.'
 date: 2014-11-10T18:46:31+00:00
 author: Chuck Lindblom
 layout: post
-guid: http://chucklindblom.com/?p=16
-permalink: /hes-dead-jim/
-image: /wp-content/uploads/2014/11/explosion-672x372.jpg
 categories:
   - Guides
   - News
@@ -26,7 +22,7 @@ tags:
   - Windows
 ---
 
-![My helpful screenshot]({{ "/img/explosion.jpg" | absolute_url }})
+![Explosion]({{ "/img/explosion.jpg" | absolute_url }})
 
 It pains me to admit that after years and years in the IT field, I was finally bit by my laziness in my own home network. My server crashed.
 
