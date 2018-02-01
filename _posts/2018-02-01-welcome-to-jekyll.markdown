@@ -1,25 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "New Year New Site"
 date:   2018-02-01 09:10:12 -0500
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+So this year my goal was to cut costs where ever I could. My old hosting provide was bleeding me dry for money, and I always seemed to have an issue with them. Enter [Jekyll][jekyll-engine], a free, simple, and lightweight way to blog using a github repo.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I have seen this before, and knew of a few people who were using it, but I had never tried it myself. Come to find out there are a ton of methods to install this 'software'. A large group of people have made repos on [Githib][github-site] that you can fork and just start using. I went a different approach and ran through the [offical install method][install-method].
 
-Jekyll also offers powerful support for code snippets:
+I hope to have this tie up and running with more features, and plugins, but since I know almost nothing on using the GIT command line, I feel like I am learning everything all over again.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[jekyll-engine]: https://jekyllrb.com/
+[github-site]: https://github.com
+[install-method]: https://jekyllrb.com/docs/installation/
