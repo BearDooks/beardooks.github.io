@@ -7,7 +7,6 @@ categories:
   - Tech News
   - Uncategorized
 tags:
-  - "5"
   - Bootstrap
   - Building
   - CSS
