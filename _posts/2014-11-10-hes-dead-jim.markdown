@@ -22,9 +22,10 @@ tags:
   - Windows
 ---
 
-![Explosion]({{ "/img/explosion.jpg" | absolute_url }})
-
 It pains me to admit that after years and years in the IT field, I was finally bit by my laziness in my own home network. My server crashed.
+
+
+![Explosion]({{ "/img/explosion.jpg" | absolute_url }})
 
 # The Story
 
