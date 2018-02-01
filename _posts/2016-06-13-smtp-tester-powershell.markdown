@@ -60,7 +60,7 @@ Switch ($MainMenu){
 # - Set correct SMTP Server to test with
 #############################
 
-$PSEmailServer = "10.193.86.114"
+$PSEmailServer = "127.0.0.1"
 
 #############################
 # - Create temp file to send
