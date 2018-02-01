@@ -23,9 +23,10 @@ tags:
   - Server
   - WAMP
   - Web Server
-  - WIndows
+  - Windows
 ---
-<figure id="attachment_18" style="max-width: 300px" class="wp-caption aligncenter">[<img class="wp-image-18 size-medium" src="http://chucklindblom.com/wp-content/uploads/2014/11/explosion-300x185.jpg" alt="explosion" width="300" height="185" srcset="http://chucklindblom.com/wp-content/uploads/2014/11/explosion-300x185.jpg 300w, http://chucklindblom.com/wp-content/uploads/2014/11/explosion.jpg 917w" sizes="(max-width: 300px) 100vw, 300px" />](http://chucklindblom.com/wp-content/uploads/2014/11/explosion.jpg)<figcaption class="wp-caption-text">I Done Broke It</figcaption></figure> 
+
+![My helpful screenshot]({{ "/img/explosion.jpg" | absolute_url }})
 
 It pains me to admit that after years and years in the IT field, I was finally bit by my laziness in my own home network. My server crashed.
 
