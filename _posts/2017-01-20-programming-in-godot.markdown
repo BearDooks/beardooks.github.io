@@ -3,7 +3,6 @@ layout: post
 title: "Programming In Godot"
 date: 2017-01-20 08:00:30 -0500
 author: Chuck Lindblom
-image: ![godot_logo]({{ "/img/godot_logo.jpg" | absolute_url }})
 categories:
   - Godot
 tags:
@@ -13,11 +12,13 @@ tags:
   - programming
   - Video Games
 ---
-image: ![godot_logo]({{ "/img/godot_logo.jpg" | absolute_url }})
+
 
 ## What Is It?
 
 Godot is a an open source game engine that is becoming widely popular among developers. A co-worker of mine was the first to tell me about it, and a few days ago I decided to download Godot and take a look at it.
+
+image: ![godot_logo]({{ "/img/godot_logo.jpg" | absolute_url }})
 
 ## What About Game Maker Studio?
 
