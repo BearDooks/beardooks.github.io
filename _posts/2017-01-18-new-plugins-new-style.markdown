@@ -1,13 +1,13 @@
 ---
-layout: post
-title: "New Plugins New Style"
-date: 2017-01-18 08:00:42 -0500
-author: Chuck Lindblom
-
+title: New Plugins New Style
+date: 2017-01-18 08:00:42 -05:00
 categories:
-  - News
-  - Site News
+- News
+- Site News
+layout: post
+author: Chuck Lindblom
 ---
+
 So one of the biggest changes I have made in 2017 so far is this site. For starters I kicked in the new WordPress 2017 Theme. I really like the simple look and the functionality it brings to the table.
 
 The second being I updated some of the plugins on the back-end, and removed some more.

@@ -1,18 +1,17 @@
 ---
-layout: post
-title: "Programming In Godot"
-date: 2017-01-20 08:00:30 -0500
-author: Chuck Lindblom
+title: Programming In Godot
+date: 2017-01-20 08:00:30 -05:00
 categories:
-  - Godot
+- Godot
 tags:
-  - game
-  - game engine
-  - Godot
-  - programming
-  - Video Games
+- game
+- game engine
+- Godot
+- programming
+- Video Games
+layout: post
+author: Chuck Lindblom
 ---
-
 
 ## What Is It?
 

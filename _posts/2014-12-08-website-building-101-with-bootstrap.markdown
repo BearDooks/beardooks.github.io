@@ -1,19 +1,19 @@
 ---
-layout: post
-title: "Website Building 101 with Bootstrap"
-date: 2014-12-08 00:04:20 -0500
+title: Website Building 101 with Bootstrap
+date: 2014-12-08 00:04:20 -05:00
 categories:
-  - Site News
-  - Tech News
-  - Uncategorized
+- Site News
+- Tech News
+- Uncategorized
 tags:
-  - Bootstrap
-  - Building
-  - CSS
-  - HTML
-  - HTML5
-  - Website
-  - Website Building
+- Bootstrap
+- Building
+- CSS
+- HTML
+- HTML5
+- Website
+- Website Building
+layout: post
 ---
 
 Recently I have been working in HTML with <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>. Bootstrap is a simple framework, yet crazy powerful tool for building websites. To be 100% honest with you I enjoy using it more than WordPress these days. I find it much easier to use, and I don&#8217;t have to worry about plugins needing to be updated every other day, or people hacking into a database.

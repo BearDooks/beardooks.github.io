@@ -1,19 +1,19 @@
 ---
-layout: post
-title: "RimWorld &#8211; First Impressions"
-date: 2017-02-02 15:20:00 -0500
-author: Chuck Lindblom
-
+title: RimWorld &#8211; First Impressions
+date: 2017-02-02 15:20:00 -05:00
 categories:
-  - Review
+- Review
 tags:
-  - First impression
-  - game
-  - PC
-  - Review
-  - RimWorld
-  - Steam
+- First impression
+- game
+- PC
+- Review
+- RimWorld
+- Steam
+layout: post
+author: Chuck Lindblom
 ---
+
 <h1 style="text-align: center;">
   RimWorld
 </h1>

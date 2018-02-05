@@ -1,25 +1,24 @@
 ---
-layout: post
-title: "He's Dead Jim..."
-date:  2014-011-10 10:00:00 -0500
-
+title: He's Dead Jim...
+date: 2014-10-11 11:00:00 -04:00
 categories:
-  - Guides
-  - News
-  - Rants
-  - Site News
-  - Tech News
-  - Uncategorized
+- Guides
+- News
+- Rants
+- Site News
+- Tech News
+- Uncategorized
 tags:
-  - Backup
-  - Data Loss
-  - Drive
-  - Linux
-  - Lost
-  - Server
-  - WAMP
-  - Web Server
-  - Windows
+- Backup
+- Data Loss
+- Drive
+- Linux
+- Lost
+- Server
+- WAMP
+- Web Server
+- Windows
+layout: post
 ---
 
 It pains me to admit that after years and years in the IT field, I was finally bit by my laziness in my own home network. My server crashed.

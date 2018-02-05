@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Resume
+layout: page
 subtitle: 
 use-site-title: true
 ---

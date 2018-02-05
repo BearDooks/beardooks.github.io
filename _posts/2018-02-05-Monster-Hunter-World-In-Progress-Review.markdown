@@ -1,25 +1,25 @@
 ---
-layout: post
-title: "Monster Hunter World in progress review"
-date: 2018-02-05 15:20:00 -0500
-author: Chuck Lindblom
-
+title: Monster Hunter World in progress review
+date: 2018-02-05 15:20:00 -05:00
 categories:
-  - Review
-  - In Progress
+- Review
+- In Progress
 tags:
-  - First impression
-  - Game
-  - PS4
-  - Review
-  - Monster Hunter World
-  - In Progress
-  - ARPG
-  - Action Game
-  - Grinding Style
-  - Hunting
-  - Monster Hunter
+- First impression
+- Game
+- PS4
+- Review
+- Monster Hunter World
+- In Progress
+- ARPG
+- Action Game
+- Grinding Style
+- Hunting
+- Monster Hunter
+layout: post
+author: Chuck Lindblom
 ---
+
 <h1 style="text-align: center;">
   Monster Hunter World
 </h1>

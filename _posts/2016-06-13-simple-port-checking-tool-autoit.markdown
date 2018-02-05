@@ -1,19 +1,19 @@
 ---
-layout: post
-title: 'Simple Port Checking Tool &#8211; AutoIT'
-date: 2016-06-13 15:53:07 -0500
-author: Chuck Lindblom
-
+title: Simple Port Checking Tool &#8211; AutoIT
+date: 2016-06-13 16:53:07 -04:00
 categories:
-  - AutoIT
-  - Guides
+- AutoIT
+- Guides
 tags:
-  - AutoIT
-  - IP
-  - Port Check
-  - Tools
-  - Windows
+- AutoIT
+- IP
+- Port Check
+- Tools
+- Windows
+layout: post
+author: Chuck Lindblom
 ---
+
 Below you will find some code to make a simple port checking tool in AutoIT. The tools simply asks the user for what IP address or Hostname they want to check, and what port. It will then confirm your entry and show you the result.
 
 ![autoit_output]({{ "/img/autoit_output.jpg" | absolute_url }})

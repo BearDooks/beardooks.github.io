@@ -1,24 +1,24 @@
 ---
-layout: post
-title: "Installing RetroArch and Emulation Station Ubuntu 16.04"
-date: 2017-03-20 10:08:42 -0500
-author: Chuck Lindblom
-
+title: Installing RetroArch and Emulation Station Ubuntu 16.04
+date: 2017-03-20 11:08:42 -04:00
 categories:
-  - Guides
+- Guides
 tags:
-  - "16.04"
-  - Emulation
-  - EmulationStation
-  - N^$
-  - NES
-  - PSX
-  - RetroArch
-  - SNES
-  - Station
-  - Ubuntu
-  - Ubuntu 16.04
+- '16.04'
+- Emulation
+- EmulationStation
+- N^$
+- NES
+- PSX
+- RetroArch
+- SNES
+- Station
+- Ubuntu
+- Ubuntu 16.04
+layout: post
+author: Chuck Lindblom
 ---
+
 Edit:
   
 I wrote this and then I found this method is no good. There is so much that does not work. Adding to this seems impossible. If you really want to run this on ubuntu, then go to the official site and follow their directions.
