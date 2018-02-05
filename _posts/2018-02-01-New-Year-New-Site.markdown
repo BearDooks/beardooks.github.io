@@ -19,6 +19,8 @@ I have seen this before, and knew of a few people who were using it, but I had n
 
 I hope to have this tie up and running with more features, and plugins, but since I know almost nothing on using the GIT command line, I feel like I am learning everything all over again.
 
+{% tweet https://twitter.com/LindblomChuck/status/959512902045708289 %}
+
 [jekyll-engine]: https://jekyllrb.com/
 [github-site]: https://github.com
 [install-method]: https://jekyllrb.com/docs/installation/
