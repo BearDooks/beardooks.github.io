@@ -1,17 +1,18 @@
 ---
-title: Creating A Simple Menu In PowerShell
-date: 2015-10-29 21:26:26 -04:00
-categories:
-- Guides
-- Tech News
-tags:
-- GAM
-- Google
-- Google Apps
-- Menu
-- Powershell
 layout: post
+title: "Creating A Simple Menu In PowerShell"
+date: 2015-10-29 20:26:26 -0500
 author: Chuck Lindblom
+
+categories:
+  - Guides
+  - Tech News
+tags:
+  - GAM
+  - Google
+  - Google Apps
+  - Menu
+  - Powershell
 ---
 
 ## Background:
