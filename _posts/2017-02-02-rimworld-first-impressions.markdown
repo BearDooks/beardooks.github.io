@@ -3,6 +3,7 @@ layout: post
 title: "RimWorld &#8211; First Impressions"
 date: 2017-02-02 15:20:00 -0500
 author: Chuck Lindblom
+image: /img/rimworld.jpg
 
 categories:
   - Review
