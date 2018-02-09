@@ -2,6 +2,7 @@
 layout: post
 title: "He's Dead Jim..."
 date:  2014-011-10 10:00:00 -0500
+image: /img/explosion.jpg
 
 categories:
   - Guides
