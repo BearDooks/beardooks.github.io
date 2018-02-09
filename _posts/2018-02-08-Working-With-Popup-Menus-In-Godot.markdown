@@ -1,5 +1,8 @@
 ---
 title: "Working With Popup Menus In Godot"
+subtitle: "Testing subs"
+#feature-img: ""
+#thumbnail: ""
 date: 2018-02-08 11:20:00 -05:00
 categories:
 - Godot
@@ -21,7 +24,7 @@ Last night I started work on a test project, and I wanted to start using popup m
 ## Working With The Popup Menu Node
 Please note this is a super simple popup menu with three items. Each selection calls a function via a signal that passes the ID of the selection and allows you to go from there.
 
-{% include image.html url="/img/GodotPopupNodes.png" description="Godot Node Structure" %}
+![GodotPopup]({{ "/img/GodotPopupNodes.png" | absolute_url }})
 {% highlight python %}
 extends Node
 
