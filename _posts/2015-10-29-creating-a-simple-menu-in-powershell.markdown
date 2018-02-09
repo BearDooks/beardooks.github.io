@@ -3,6 +3,7 @@ layout: post
 title: "Creating A Simple Menu In PowerShell"
 date: 2015-10-29 20:26:26 -0500
 author: Chuck Lindblom
+image: /img/powershell.png
 
 categories:
   - Guides
