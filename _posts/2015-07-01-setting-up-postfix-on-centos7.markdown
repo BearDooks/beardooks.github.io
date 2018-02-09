@@ -3,6 +3,7 @@ layout: post
 title: "Setting up Postfix on CentOS7"
 date: 2015-07-01 15:48:26 -0500
 author: Chuck Lindblom
+image: /img/postfix.png
 
 categories:
   - Guides
