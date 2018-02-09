@@ -1,6 +1,7 @@
 ---
 title: Monster Hunter World in progress review
 date: 2018-02-05 15:20:00 -05:00
+image: /img/Monster_Hunter_World_cover_art.jpg
 categories:
 - Review
 - In Progress
