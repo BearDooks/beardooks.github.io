@@ -3,6 +3,7 @@ layout: post
 title: "Working With Slack"
 date: 2017-01-22 08:00:40 -0500
 author: Chuck Lindblom
+image: /img/slcack.jpg
 
 categories:
   - Rants
