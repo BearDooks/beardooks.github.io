@@ -2,6 +2,7 @@
 layout: post
 title: "Website Building 101 with Bootstrap"
 date: 2014-12-08 00:04:20 -0500
+image: /img/bootstrap.jpg
 categories:
   - Site News
   - Tech News
