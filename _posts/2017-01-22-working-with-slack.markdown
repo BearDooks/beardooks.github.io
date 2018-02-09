@@ -3,7 +3,7 @@ layout: post
 title: "Working With Slack"
 date: 2017-01-22 08:00:40 -0500
 author: Chuck Lindblom
-image: /img/slcack.jpg
+image: /img/slack.jpg
 
 categories:
   - Rants
@@ -29,7 +29,7 @@ Slack is a team communication app at its core. What at first glance appears to b
 
 Slack has the ability to let is users add channels to their account. Those channels are basically smaller chat rooms that can be used to discuss certain parts of a project, or a channel that can alert you when GitHub is updated. All in all it is a very powerful tool that lets DevOps and Engineers use the same application in different ways.
 
-![slack]({{ "/img/slcack.jpg" | absolute_url }})
+![slack]({{ "/img/slack.jpg" | absolute_url }})
 
 ## Application Integration:
 
