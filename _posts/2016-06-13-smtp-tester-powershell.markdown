@@ -3,6 +3,7 @@ layout: post
 title: "SMTP Tester Powershell"
 date: 2016-06-13 16:17:04 -0500
 author: Chuck Lindblom
+image: /img/mail_icon.png
 
 categories:
   - Guides
