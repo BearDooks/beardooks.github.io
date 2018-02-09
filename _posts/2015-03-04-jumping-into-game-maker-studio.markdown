@@ -3,6 +3,7 @@ layout: post
 title: "Jumping Into Game Maker Studio"
 date: 2015-03-04 10:30:31 -0500
 author: Chuck Lindblom
+image: /img/gamemaker_studio.png
 
 categories:
   - Game Maker Studio
