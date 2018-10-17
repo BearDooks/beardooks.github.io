@@ -17,16 +17,34 @@ Microsoft Windows XP * Microsoft Windows Vista * Microsoft Windows 7 * Microsoft
 
 Conning, Hartford, CT                                                                               September 2013 – Present
 
-<strong>Systems Engineer (</strong>September 2013 – Present)
+<strong>AVP - Systems Engineering (</strong>September 2013 – October 2018)
 <ul>
- 	<li>Managed day to day operations of 200 Servers in VMWare environment</li>
- 	<li>Built and tested new McAfee EPO server/environment and wrote a proposal to deploy to the company</li>
- 	<li>Implemented a new HP SIM Server to monitor all physical HP servers in all offices</li>
- 	<li>Designed and implemented a pilot Mobile Device Management system using ForeScout</li>
- 	<li>Designed and implemented Jabber Mobile for Hartford Location</li>
- 	<li>Planned and executed an upgrade of the Cisco Unified Communications System</li>
- 	<li>Managed both LANDesk Service Desk and LANDesk Management Suite for the department</li>
- 	<li>Documented large amounts of processes for the department</li>
+ <li>Help to manage Infrastructure Engineering projects to ensure successful completion on time</li>
+ <li>Configured and built new virtual SQL environment on ESX 6.5 and NetApp AFF8080 storage</li>
+ <li>Configured and implemented a new virtual environment for Cologne Germany Office</li>
+ <li>Configured and implemented a new virtual environment for Hong Kong Office</li>
+ <li>Configured and deployed an HA email relay system for internal applications on Linux</li>
+ <li>Configured and manage multiple load balancers using HAProxy</li>
+ <li>Managed day to day operations of 300+ Servers in VMware environment</li>
+ <li>Managed templates, storage, network, backups, and vApps in VMware</li>
+ <li>Managed Multiple NetApps in multiple global locations</li>
+ <li>Created Snapmirrors and snapshot policies on NetApp to ensure HA and Restore abilities</li>
+ <li>Managed six XioTech storage arrays for the SQL team</li>
+ <li>Removed numerous X-Volumes from XioTech environment to increase speed and remove overhead</li>
+ <li>Created and manage backups for VMs, Storage, and archive data</li>
+ <li>Played a key role in the migration for Google Apps to O365</li>
+ <li>Built and deployed a new Windows 10 based image to workstations</li>
+ <li>Built and tested new McAfee Epo server/environment and wrote a proposal to deploy to the company</li>
+ <li>Implemented a new HP SIM Server to monitor all physical HP servers in all offices</li>
+ <li>Designed and implemented a pilot Mobile Device Management system using ForeScout</li>
+ <li>Planned and executed an upgrade of the Cisco Unified Communications System</li>
+ <li>Managed both LANDesk Service Desk and LANDesk Management Suite for the department</li>
+ <li>Designed and implemented a new LANDesk environment for the latest version</li>
+ <li>Used XTraction to create reports based off of our Service Desk and Inventory System</li>
+ <li>Documented large amounts of processes for the department</li>
+ <li>Managed entire Google Apps platform</li>
+ <li>Created reports and audit rules for Google Apps</li>
+ <li>On/Off Boarding of all users</li>
 </ul>
 
 Fandotech – A Division of Industrial Defender, Manchester, CT                 April 2012 – September 2013
