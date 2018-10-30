@@ -44,6 +44,6 @@ $Credential = Get-Credential
 $Credential | Export-Clixml -Path "C:\Temp\creds.Cred"
 
 # Output to user
-Write-Host "`nCredentails have been stored in C:\Temp`n"
+Write-Host "`nCredentails have been stored in C:\Temp"
 
 {% endhighlight %}
