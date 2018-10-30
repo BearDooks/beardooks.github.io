@@ -31,12 +31,13 @@ tags:
 Write-Host "Checking if directory exists"
 If(!(Test-Path "C:\Temp"))
 {
+    Write-Host " "
     Write-Host "C:\Temp has been created for you"
     New-Item -ItemType Directory -Force -Path "C:\Temp"
 }
 Else
 {
-    Write-Host "Directory found! Moving on`n"
+    Write-Host "Directory found! Moving on"
 }
 
 # Ask the user for the username and password that needs to be exported
@@ -44,6 +45,8 @@ $Credential = Get-Credential
 $Credential | Export-Clixml -Path "C:\Temp\creds.Cred"
 
 # Output to user
-Write-Host "`nCredentails have been stored in C:\Temp"
+Write-Host " "
+Write-Host "Credentails have been stored in C:\Temp"
+Write-Host " "
 
 {% endhighlight %}
