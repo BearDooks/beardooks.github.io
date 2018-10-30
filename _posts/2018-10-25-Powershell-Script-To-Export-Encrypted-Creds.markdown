@@ -16,7 +16,7 @@ tags:
 ---
 
 {% highlight ruby %}
-
+<pre class="brush: powershell; title: ; notranslate" title="">
 # Script Name: ExportCreds.ps1
 # Written By: Chuck Lindblom
 # Updated By:
@@ -48,5 +48,5 @@ $Credential | Export-Clixml -Path "C:\Temp\creds.Cred"
 Write-Host " "
 Write-Host "Credentails have been stored in C:\Temp"
 Write-Host " "
-
+</pre>
 {% endhighlight %}
