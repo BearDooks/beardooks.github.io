@@ -20,7 +20,7 @@ tags:
 layout: post
 author: Chuck Lindblom
 ---
-<span class="image featured"><img src="/images/Monster_Hunter_World_cover_art.jpg" alt=""></span>
+
 <h1 style="text-align: center;">
   Monster Hunter World
 </h1>
@@ -29,6 +29,7 @@ author: Chuck Lindblom
 
 You are a hunter in the fifth fleet. A group of hunter, techs, handlers, and others sent to the new world to help study it and the monsters that live there. During your voyage to this new world, the ship you are on is attacked by the elder dragon, a huge monster that the research commission wants to study. and the ship is destroyed. You and your handler make it to shore where you meet up with the rest of the survivors and the make it to camp where the game beings.
 
+{% include image.html url="/img/Monster_Hunter_World_cover_art.jpg" description="Image Copyright Capcom" %}
 
 ## Gameplay:
 
