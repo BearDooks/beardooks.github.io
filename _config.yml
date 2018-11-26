@@ -10,9 +10,17 @@ author:
   name:       Chuck Lindblom
   url:        https://www.chucklindblom.com
 
+<<<<<<< HEAD
 # Gems
 gems:
   - jekyll-paginate
+=======
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-leap-day
+plugins:
+  - jekyll-feed
+>>>>>>> parent of da62062... Update _config.yml
 
 #Others
 markdown: kramdown
