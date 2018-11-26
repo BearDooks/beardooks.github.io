@@ -26,7 +26,7 @@ github_username:  beardooks
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
