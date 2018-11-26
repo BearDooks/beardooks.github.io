@@ -2,11 +2,17 @@
 layout: page
 title: About
 permalink: /about/
-subtitle: A little about this place
 ---
 
-Welcome to Chucklindblom.com
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-A site to get general Tech News, Reviews, and General Hoop-La about nothing in particular. On here you will find scripts I write to make life easy, thoughts on events, and projects I am working on.
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
 
-I try to keep this site updated as best I can but I find during the week I don’t have time, or don’t feel the urge to write, but that should all be changing soon. I would like to start weekly posts, about anything to start, and then move on from there. So stay tuned.
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
+
+
+[jekyll-organization]: https://github.com/jekyll
