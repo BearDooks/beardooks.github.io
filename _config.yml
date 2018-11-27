@@ -27,18 +27,13 @@ menu:
     submenu:
       - title: 'LightsOut!'
         url: '/LightsOutGame/'
-  - title: 'Tags'
-    url: '/tags'
   - title: 'Categories'
-    url: '/categories'
-    type: 'categories'
-  - title: 'Favorites'
     url: '#'
     submenu:
-      - title: 'Code Highlighter'
-        url: '/intro/code-highlighting-post/'
-      - title: 'Sample Post'
-        url: '/intro/sample-post/'
+      - title: 'Tags'
+        url: '/tags/'
+      - title: 'Categories'
+        url: '/categories'
 
 # Owner/author information
 owner:
