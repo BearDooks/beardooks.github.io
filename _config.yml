@@ -21,7 +21,12 @@ menu:
   - title: 'Home'
     url: '/'
   - title: 'About'
-    url: 'http://www.chucklindblom.com/about/'
+    url: '#'
+    submenu:
+      - title: 'About!'
+        url: 'http://www.chucklindblom.com/about/'
+      - title: 'Resume'
+        url: 'http://www.chucklindblom.com/resume/'
   - title: 'Projects'
     url: '#'
     submenu:
