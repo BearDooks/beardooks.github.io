@@ -2,35 +2,21 @@
 layout: post
 title: "He's Dead Jim..."
 date:  2014-011-10 10:00:00 -0500
-image: /img/explosion.jpg
-
-categories:
-  - Guides
-  - News
-  - Rants
-  - Site News
-  - Tech News
-  - Uncategorized
-tags:
-  - Backup
-  - Data Loss
-  - Drive
-  - Linux
-  - Lost
-  - Server
-  - WAMP
-  - Web Server
-  - Windows
+categories: [guides, news,rants,site news, tech news]
+tags: [backup, data loss, drive, linux, lost, server, wamp, web server, windows]
 ---
 
 It pains me to admit that after years and years in the IT field, I was finally bit by my laziness in my own home network. My server crashed.
 
 
-![Explosion]({{ "/img/explosion.jpg" | absolute_url }})
+<figure>
+	<a href="/images/explosion.jpg"><img src="/images/explosion.jpg" alt=""></a>
+</figure>
 
 # The Story
 
 On November 5th 2014, I was at work when I needed to SSH back home to check on something. From my work machine I tried to SSH home, but I was greeted with a &#8216;Connection Refused&#8217; message in my terminal. Thinking that it was odd, I tried to RDP back to the Windows Server at my house, but again the connection would not start. Checking on the sites that I normally run from my server, I began to get nervous when none of them would load.
+<!--more-->
 
 As a last ditch effort I tried to FTP back to the server to see if there was anything I could get to, but again I was greeted by an error message that told me a connection was not going to happen.
 

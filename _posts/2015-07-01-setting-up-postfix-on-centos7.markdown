@@ -3,21 +3,14 @@ layout: post
 title: "Setting up Postfix on CentOS7"
 date: 2015-07-01 15:48:26 -0500
 author: Chuck Lindblom
-image: /img/postfix.png
-
-categories:
-  - Guides
-tags:
-  - CentOS
-  - CentOS7
-  - Email
-  - Linux
-  - Postfix
-  - Server
+categories: [guide]
+tags: [centos, centos7, "7", email, linux, postfix, server]
 ---
 The following guide is the step by step instructions I wrote out. These instructions will allow you to install Postfix on CentOS7.
 
-![postfix]({{ "/img/postfix.png" | absolute_url }})
+<figure>
+	<a href="/images/postfix.png"><img src="images/postfix.png" alt=""></a>
+</figure>
 
 ## **Pre Reqs**
 
@@ -30,7 +23,7 @@ yum install wget
 &nbsp;
 
 ## **Install Webmin**
-
+<!--more-->
 nano /etc/yum.repos.d/webmin.repo
 
 &nbsp;

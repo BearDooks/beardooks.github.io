@@ -3,17 +3,8 @@ layout: post
 title: "RimWorld &#8211; First Impressions"
 date: 2017-02-02 15:20:00 -0500
 author: Chuck Lindblom
-image: /img/rimworld.jpg
-
-categories:
-  - Review
-tags:
-  - First impression
-  - game
-  - PC
-  - Review
-  - RimWorld
-  - Steam
+categories: [review]
+tags: [first impressions, game, pc, review, rimworld, steam]
 ---
 <h1 style="text-align: center;">
   RimWorld
@@ -22,12 +13,14 @@ tags:
 
 Over the weekend while looking for a new game to play, I picked up a copy of RimWorld on [Steam](http://store.steampowered.com/app/294100/). Without a doubt, this is one of the most frustrating, unfair, and extremely addicting games I have played in a while. RimWorld has a ton of modes and different styles to play, so I will keep it simple and discuss what I have done.
 
-![rimworld]({{ "/img/rimworld.jpg" | absolute_url }})
+<figure>
+	<a href="/images/rimworld.jpg"><img src="images/rimworld.jpg" alt=""></a>
+</figure>
 
 ## Day 1:
 
 When you fire up RimWorld you can either jump right into the action. or you can play a tutorial. I highly suggest you play
-
+<!--more-->
 the tutorial first so you know what is going on and the basic controls. Once I completed that I jumped into my first real game.
 
 When you start a colony you choose from three scenarios. You can either play as three crash survivors, a single rich guy, or a tribe of 5 people who are looking to make a new camp. I started with the three crash survivors.
@@ -44,7 +37,9 @@ Time to restart&#8230;..
 
 I restart everything and learn from my mistakes. The survivors get back to where they were the first time, and I even get a new person to join me. Things take a bad turn when it starts to rain, and all of my electrical equipment. Turns out that doesn&#8217;t really work as all of the generators, and batteries exploded.
 
-![rimworld_fire]({{ "/img/rimworld_fire.jpg" | absolute_url }})
+<figure>
+	<a href="/images/rimworld_fire.jpg"><img src="images/rimworld_fire.jpg" alt=""></a>
+</figure>
 
 Fire is a bad thing in RimWorld. It spreads like crazy, and if you don&#8217;t get to it right away, kiss the base goodbye.
 

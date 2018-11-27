@@ -1,11 +1,10 @@
 ---
 layout: page
 title: About
-permalink: /about/
-subtitle: A little about this place
+share: true
 ---
 
-Welcome to Chucklindblom.com
+# Welcome to Chucklindblom.com
 
 A site to get general Tech News, Reviews, and General Hoop-La about nothing in particular. On here you will find scripts I write to make life easy, thoughts on events, and projects I am working on.
 

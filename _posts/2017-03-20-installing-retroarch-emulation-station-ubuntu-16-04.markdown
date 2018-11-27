@@ -3,27 +3,17 @@ layout: post
 title: "Installing RetroArch and Emulation Station Ubuntu 16.04"
 date: 2017-03-20 10:08:42 -0500
 author: Chuck Lindblom
-image: /img/Retropie_Splash.png
+categories: [guide]
+tags: ["16.04", emulation, emulation station, emulationstation, nes, psx, retroarch, snes, ubuntu]
 
-categories:
-  - Guides
-tags:
-  - "16.04"
-  - Emulation
-  - EmulationStation
-  - NES
-  - PSX
-  - RetroArch
-  - SNES
-  - Station
-  - Ubuntu
-  - Ubuntu 16.04
 ---
 Edit:
   
 I wrote this and then I found this method is no good. There is so much that does not work. Adding to this seems impossible. If you really want to run this on ubuntu, then go to the official site and follow their directions.
 
-{% include image.html url="/img/Retropie_Splash.png" description="Retropie Splash Screen" %} 
+<figure>
+	<a href="/images/Retropie_Splash.png"><img src="images/Retropie_Splash.png" alt=""></a>
+</figure>
 
 sudo add-apt-repository ppa:emulationstation/ppa
   

@@ -1,21 +1,8 @@
 ---
 title: "Dev Diary First Run"
 date: 2018-04-24 11:05:00 -05:00
-categories:
-- Dev Diary
-- AI App
-- Godot
-- Git
-- Github
-tags:
-- Godot
-- Dev Diary
-- AI App
-- Git
-- Github
-- Lessons Learned
-- Trello
-- Slack
+categories: [dev diary]
+tags: [godot, dev diary, ai app, git, github, lessons learned, trello, slack]
 layout: post
 author: Chuck Lindblom
 ---
@@ -27,8 +14,10 @@ Over the past few months I have been working on a new app/gaem idea with a guy f
 # Git
 
 Git is your friend, but it can also be your worst nightmare at the same time. Git is a super powerful tool for managing work, collaborating with someone else, and storing old versions of code so you can review if needed. Overall, I have been super happy with it, moving over from SVN, but I have also had an extremely hard time with it. 
-{% include image.html url="/img/bitbucket_commits.JPG" description="Bitbucket Commits" %}
-
+<figure>
+	<a href="/images/bitbucket_commits.jpg"><img src="/images/bitbucket_commits.jpg" alt=""></a>
+</figure>
+<!--more-->
 One of the biggest issues we have had is when two people are working on the same file. Normally not an issue, but when there is a few changes made to a .tscn file in Godot, you don't always see the changes. These files are basically the scenes that you are working on, and you never really go into the code side of things. That is where GDScript comes in. A few times though I have had to go into these .tscn files and fix the merge issues that we have.
 
 Finding the right tool is also a pain. Since most of the code we are working on is hosted in BitBucket, we used SourceTree since it is made by the same company. We soon saw that this is going be an issue since we didn't really know how to use the application, and it was overly complicated. In the end I had to switch to GitHub Desktop because it was simple to use. My partner picked up TortoiseGit, which is basically an SVN client converted to Git.
@@ -38,15 +27,21 @@ Finding the right tool is also a pain. Since most of the code we are working on 
 Trello has become my go to for Kanban type lists. Granted I don't use it as much as I should, and we are still trying to figure out what the cards should look like, it helps organize thoughts and ideas that you don't want to lose. It also helps me see who is working on what so we don't end up working on the same thing (Which happens more than I would like). 
 
 We took the idea of the columns and adapted it to meet our needs. We have one that is just for cards of things we need to discuss, or new ideas we might want to turn into something. Labels have also been super important to this product. I can tag things as a bug, misc, v0.1 release, or a nice to have item. It allows me to quickly see what is going on, and what I need to tackle first. This method stops me from working on things that would be nice to have, vs things that are broken.
-{% include image.html url="/img/trello_cards.JPG" description="Trello Cards" %}
+<figure>
+	<a href="/images/trello_cards.jpg"><img src="/images/trello_cards.jpg" alt=""></a>
+</figure>
 
 # Slack
 
 Slack was first introduced to me by a development team at my day job. The first time I saw it I didn’t really care for it, I thought it was just another app that allows you to chat with people and share stupid pictures. I then started using it more myself to see what it was capable of, and how it might benefit me as I worked on projects. 
 
 Slack is great at linking into other applications. The best example I have for this is Git. When someone on the team posts a new build into BitBucket, Slack sends a message to let me know and includes the notes. When cards are worked on or moved in Trello, Slack lets me know. It has become less of a chat application for me, and more of a high-level view into how the project is progressing and what has been done. Yes, I still use it to chat with the team, and share stupid pictures, but we can also post things like portions of code. Slack is smart enough to show the code in the correct format with colors so it is easier for the user to read.
-{% include image.html url="/img/slack_git.JPG" description="BitBucket commits in Slack" %}
-{% include image.html url="/img/slack_code.JPG" description="Code view in Slack" %}
+<figure>
+	<a href="/images/slack_git.jpg"><img src="/images/slack_git.jpg" alt=""></a>
+</figure>
+<figure>
+	<a href="/images/slack_code.jpg"><img src="/images/slack_code.jpg" alt=""></a>
+</figure>
 
 # Conclusion
 

@@ -3,21 +3,15 @@ layout: post
 title: "SMTP Tester Powershell"
 date: 2016-06-13 16:17:04 -0500
 author: Chuck Lindblom
-image: /img/mail_icon.png
-
-categories:
-  - Guides
-tags:
-  - Email
-  - Powershell
-  - Program
-  - SMTP
-  - Windows
+categories: [guide]
+tags: [email, powershell, program, smtp, windows]
 ---
 The below script is a simple method to test if port 25 is open on a server. The script will attempt to connect to the server and send a quick email with a small attachment that it creates on the fly.
 
-![mail_icon]({{ "/img/mail_icon.png" | absolute_url }})
-
+<figure>
+	<a href="/images/mail_icon.png"><img src="images/mail_icon.png" alt=""></a>
+</figure>
+<!--more-->
 {% highlight ruby %}
 
 <pre class="brush: powershell; title: ; notranslate" title="">######################################################################

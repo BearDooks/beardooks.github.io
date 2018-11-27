@@ -1,34 +1,27 @@
 ---
 title: "Working With Popup Menus In Godot"
 date: 2018-02-08 11:20:00 -05:00
-image: /img/GodotPopupNodes.png
-categories:
-- Godot
-- Dev
-- Programming
-tags:
-- Godot
-- Godot 3.0
-- Popup menu
-- Programming
-- Guide
+categories: [guide, godot]
+tags: [godot, godot 3.0, godot 3, popup menu, programming, guide]
 layout: post
 author: Chuck Lindblom
 ---
 
-# Popup Menus Is Godot
+# Popup Menus In Godot
 Last night I started work on a test project, and I wanted to start using popup menus correctly. I had implemented them in my game 'LightsOut!' but I did not relize that I was using them incorrectly. As it turns out this Node is super helpful and pretty easy to use if you now what you are doing.
 
 ## Working With The Popup Menu Node
 Please note this is a super simple popup menu with three items. Each selection calls a function via a signal that passes the ID of the selection and allows you to go from there.
 
-{% include image.html url="/img/GodotPopupNodes.png" description="Godot Node Structure" %}
+<figure>
+	<a href="/images/GodotPopupNodes.png"><img src="/images/GodotPopupNodes.png" alt=""></a>
+</figure>
+<!--more-->
 {% highlight python %}
 extends Node
 
 # Internal Connections
 onready var popup = self.get_node("PopupMenu")
-
 func _ready():
 	_setupPopupMenu()
 

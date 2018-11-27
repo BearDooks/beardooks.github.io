@@ -3,17 +3,8 @@ layout: post
 title: "Creating A Simple Menu In PowerShell"
 date: 2015-10-29 20:26:26 -0500
 author: Chuck Lindblom
-image: /img/powershell.png
-
-categories:
-  - Guides
-  - Tech News
-tags:
-  - GAM
-  - Google
-  - Google Apps
-  - Menu
-  - Powershell
+categories: [guide]
+tags: [GAM, google, google apps, menu, powershell]
 ---
 
 ## Background:
@@ -22,10 +13,12 @@ I don&#8217;t claim to be the worlds best programmer, in fact I am far from it, 
 
 Recently I was working on a PowerShell project where I was trying to create a simple application that would ask the user for input, and then run an .exe int eh background with the passed data. The idea was to simply the program that we used to administer our Google Apps domain, called [GAM](https://github.com/jay0lee/GAM).
 
-![powershell]({{ "/img/powershell.png" | absolute_url }})
+<figure>
+	<a href="/images/powershell.png"><img src="images/powershell.png" alt=""></a>
+</figure>
 
 We had already been using the program for a while, but it was becoming annoying to type out the same commands all the time such as:
-
+<!--more-->
 <p style="padding-left: 30px;">
   gam user abc@abc.com delegate to user xyz@abc.com
 </p>

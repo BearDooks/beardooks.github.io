@@ -3,22 +3,15 @@ layout: post
 title: 'Simple Port Checking Tool &#8211; AutoIT'
 date: 2016-06-13 15:53:07 -0500
 author: Chuck Lindblom
-image: /img/autoit_output.jpg
-
-categories:
-  - AutoIT
-  - Guides
-tags:
-  - AutoIT
-  - IP
-  - Port Check
-  - Tools
-  - Windows
+categories: [guide]
+tags: [autoit, ip, port check, tools, windows, auto it]
 ---
 Below you will find some code to make a simple port checking tool in AutoIT. The tools simply asks the user for what IP address or Hostname they want to check, and what port. It will then confirm your entry and show you the result.
 
-![autoit_output]({{ "/img/autoit_output.jpg" | absolute_url }})
-
+<figure>
+	<a href="/images/autoit_output.jpg"><img src="images/autoit_output.jpg" alt=""></a>
+</figure>
+<!--more-->
 {% highlight ruby %}
 
 > ; Script Function:
@@ -28,7 +21,7 @@ Below you will find some code to make a simple port checking tool in AutoIT. The
 > #include <FileConstants.au3>
   
 > #include <MsgBoxConstants.au3>
-  
+
 > #include <WinAPIFiles.au3>
 > 
 > ; Run port check

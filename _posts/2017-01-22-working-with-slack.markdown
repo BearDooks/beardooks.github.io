@@ -3,19 +3,8 @@ layout: post
 title: "Working With Slack"
 date: 2017-01-22 08:00:40 -0500
 author: Chuck Lindblom
-image: /img/slack.jpg
-
-categories:
-  - Rants
-  - Tech News
-  - Uncategorized
-tags:
-  - apps
-  - channels
-  - code
-  - organization
-  - slack
-  - Website
+categories: [tech news, rants]
+tags: [apps, channels, code, organization, slack, website]
 ---
 Slack is a relatively new product in the market that has had some seriously amazing growth. The Team Communication app has not only broken into the market, it has taken it by storm.
 
@@ -23,13 +12,13 @@ Slack is a relatively new product in the market that has had some seriously amaz
 
 Slack is a team communication app at its core. What at first glance appears to be a simple chat room, or chat app is really much more more. From adding integration with other apps, to making special channel;s to discuss items that might not need to be in the general chat, Slack is your app.
 
-
-
 ## Channels:
 
 Slack has the ability to let is users add channels to their account. Those channels are basically smaller chat rooms that can be used to discuss certain parts of a project, or a channel that can alert you when GitHub is updated. All in all it is a very powerful tool that lets DevOps and Engineers use the same application in different ways.
-
-![slack]({{ "/img/slack.jpg" | absolute_url }})
+<!--more-->
+<figure>
+	<a href="/images/slack.jpg"><img src="images/slack.jpg" alt=""></a>
+</figure>
 
 ## Application Integration:
 

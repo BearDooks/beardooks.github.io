@@ -3,15 +3,8 @@ layout: post
 title: "Programming In Godot"
 date: 2017-01-20 08:00:30 -0500
 author: Chuck Lindblom
-image: /img/godot_logo.jpg
-categories:
-  - Godot
-tags:
-  - game
-  - game engine
-  - Godot
-  - programming
-  - Video Games
+categories: [godot]
+tags: [godot, game engine, godot, programming, video games, games]
 ---
 
 
@@ -19,12 +12,14 @@ tags:
 
 Godot is a an open source game engine that is becoming widely popular among developers. A co-worker of mine was the first to tell me about it, and a few days ago I decided to download Godot and take a look at it.
 
-image: ![godot_logo]({{ "/img/godot_logo.jpg" | absolute_url }})
+<figure>
+	<a href="/images/godot_logo.jpg"><img src="images/godot_logo.jpg" alt=""></a>
+</figure>
 
 ## What About Game Maker Studio?
 
 Coming from Game Maker Studio, I can say that the concepts of design are there, but Godot is very different in terms of how you make things work. Objects are replaced by scenes, and each scene has one parent node that can have multiple child nodes. The editor is open source, and can be changed to your liking.
-
+<!--more-->
 I will say Game Maker Studio seems more like an intro to what Godot is getting at. Game Maker Studio to me is a great tool, and a ton of awesome games have been made with it, but unless you are willing to dish out the money, you can&#8217;t do much.
 
 ## Godot Development Thought:

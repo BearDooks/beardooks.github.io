@@ -3,10 +3,7 @@ layout: post
 title: "New Plugins New Style"
 date: 2017-01-18 08:00:42 -0500
 author: Chuck Lindblom
-
-categories:
-  - News
-  - Site News
+categories: [site news]
 ---
 So one of the biggest changes I have made in 2017 so far is this site. For starters I kicked in the new WordPress 2017 Theme. I really like the simple look and the functionality it brings to the table.
 
@@ -17,7 +14,7 @@ The second being I updated some of the plugins on the back-end, and removed some
 This is probably one of my favorite plugins ever. I have been using WordPress for years now, and one of the biggest things that always got to me was the login page. A page not many people normally see if you run a blog by yourself, but still we need to show it some love. [Theme My Login](https://wordpress.org/plugins/theme-my-login/) does exactly that. This plugin takes the CSS from the rest of your site and applies it to a new login page. It also through in some nice widgets to use instead of the standard META ones. I highly recommend it.
 
 ## [Yoast SEO:](https://wordpress.org/plugins/wordpress-seo/)
-
+<!--more-->
 I had a different SEO pack in 2015/2016 and I never really used it. A lot of the features were paid features, and the tools just didn&#8217;t fit the spot I needed them in. A quick Google search later and I find [Yoast SEO.](https://wordpress.org/plugins/wordpress-seo/) Once you install this plugin, it takes you through a very simple extremely easy to use configuration center. You plug in everything you want it to know about you and it does the rest.
 
 ## [SyntaxHighlighter Evolved:](https://wordpress.org/plugins/syntaxhighlighter/)
