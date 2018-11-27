@@ -1,6 +1,6 @@
 ---
 title: "Website Revamp"
-date: 2018-10-18 11:25:00 -05:00
+date: 2018-11-27 11:25:00 -05:00
 categories: [website]
 tags: [website, updates, jekyll, working on it]
 layout: post
