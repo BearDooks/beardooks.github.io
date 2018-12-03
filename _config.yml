@@ -24,9 +24,9 @@ menu:
     url: '#'
     submenu:
       - title: 'About!'
-        url: 'http://www.chucklindblom.com/about/'
+        url: '/about/'
       - title: 'Resume'
-        url: 'http://www.chucklindblom.com/resume/'
+        url: '/resume/'
   - title: 'Projects'
     url: '#'
     submenu:
