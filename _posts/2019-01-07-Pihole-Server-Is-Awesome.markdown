@@ -7,7 +7,6 @@ layout: post
 author: Chuck Lindblom
 ---
 
-# Pi-hole Server is Awesome!
 A friend recently asked me if I knew of a good way to block ads on his home network. At the time I didn't, but I started to dig into it more, since this is something I have also been curious about. Ads have become more and more annoying and intrusive to our lives. The people that use them for the right reasons get a bad rap, by the people who hijack browsers with it. I needed to find something, enter Pi-hole.
 
 <a href="https://pi-hole.net/">Pi-hole's Website</a>
