@@ -31,7 +31,7 @@ While I have always been hesitant to use a MAC since I have grown up on Windows,
 2. The interface, while hard to get used to at first, is very clean. The animations are pretty smooth, and the buttons make sense. Also transitioning from something to another something just feels and looks smooth. I have to stay it is very plesant to look at. 
 
 3. While other companies and devices have adopted the style, the keyboard on this thing is nice. The buttons have just the right amount of give to them, and the sound when you are really typing or writing code and get into the zone, is super satisfying. 
-<a href="/images/mac_keyboard.jpg"><img src="/images/mac_keybaord.jpg" alt=""></a>
+<a href="/images/mac_keyboard.jpg"><img src="/images/mac_keyboard.jpg" alt=""></a>
 
 # What I Don't Like
 
