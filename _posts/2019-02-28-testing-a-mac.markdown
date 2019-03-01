@@ -1,6 +1,6 @@
 ---
 title: "Testing A Mac"
-date: 2019-02-2728 18:00:00 -05:00
+date: 2019-02-28 18:00:00 -05:00
 categories: [update]
 tags: [apple, macbook, mac, testing, work]
 layout: post
