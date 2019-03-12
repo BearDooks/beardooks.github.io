@@ -7,7 +7,7 @@ layout: post
 author: Chuck Lindblom
 ---
 
-It took me years to see that paying over $100 for web hosting for a few Wordpress sites and some personal junk was not really working for me anymore. I don't really make any money off of the small ads I have on my site (Thanks for not blocking them if you see them), and I never really asked people for money when I made them a website. I used HostGatro for a few years, and to be honest I am glad I am moving away from them. The price was way to high for personal use, and the support was lacking.
+It took me years to see that paying over $100 for web hosting for a few Wordpress sites and some personal junk was not really working for me anymore. I don't really make any money off of the small ads I have on my site (Thanks for not blocking them if you see them), and I never really asked people for money when I made them a website. I used HostGator for a few years, and to be honest I am glad I am moving away from them. The price was way to high for personal use, and the support was lacking.
 
 I can remember a time when my sites where being turned off for no reason. I got an email from a third party called SiteLock, that told me my sites had been scanned and there was malware and bad files. The worst part was they could never really tell me what files, how they got there, or who was accessing my account. It is very hard for a person who works in IT to trust a company that doesn't provide logs of access to you. There were other times when the site was be shut down for no reason at all, and by the time I finally got through to support, the site was back, and they claimed it had been working the entire time. The screenshots that I had taken must have been fake right? Yeah.
 <!--more-->

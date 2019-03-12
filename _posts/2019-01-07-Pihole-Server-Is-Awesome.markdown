@@ -38,7 +38,7 @@ pihole -a -p
 Credit to Nico Maas <a href="https://www.nico-maas.de/?p=1525">Nico's Link</a>
 
 ## Stats
-To start I have only changed one of the machines in my network to use Pi-hole, because I want to see how it works before I go all in. Its not that I have a lot of devices in my house, by with Smart TVs, Phones, Tablets, Etc I don't wantto break anything and have to explain to the family what I did. My 5 year old daughter will be pissed if she can't watch her shows on her iPad. (Don't judge me). After running the server for a bit and doing some gaming and web browsing, I found that Pi-hole just works. While my wife was using my rig, I had ther admin panel up on my phone, and I could see in real time what it was doing.
+To start I have only changed one of the machines in my network to use Pi-hole, because I want to see how it works before I go all in. Its not that I have a lot of devices in my house, by with Smart TVs, Phones, Tablets, Etc I don't want to break anything and have to explain to the family what I did. My 5 year old daughter will be pissed if she can't watch her shows on her iPad. (Don't judge me). After running the server for a bit and doing some gaming and web browsing, I found that Pi-hole just works. While my wife was using my rig, I had their admin panel up on my phone, and I could see in real time what it was doing.
 <a href="/images/pihole_stats.png"><img src="/images/pihole_stats.png" alt=""></a>
 
 ## Final Report

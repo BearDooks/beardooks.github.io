@@ -8,7 +8,7 @@ author: Chuck Lindblom
 ---
 
 # Popup Menus In Godot
-Last night I started work on a test project, and I wanted to start using popup menus correctly. I had implemented them in my game 'LightsOut!' but I did not relize that I was using them incorrectly. As it turns out this Node is super helpful and pretty easy to use if you now what you are doing.
+Last night I started work on a test project, and I wanted to start using popup menus correctly. I had implemented them in my game 'LightsOut!' but I did not realize that I was using them incorrectly. As it turns out this Node is super helpful and pretty easy to use if you now what you are doing.
 
 ## Working With The Popup Menu Node
 Please note this is a super simple popup menu with three items. Each selection calls a function via a signal that passes the ID of the selection and allows you to go from there.
@@ -51,6 +51,6 @@ This will create a menu on the screen that you can use.
 	popup.connect("id_pressed", self, "_popupMenuChoice")
 {% endhighlight %}
 
-This is the line that connects the signal to another function when you select something. Note that this is how it works in Godot 3.0. The commands in 2.1.4 are different. While working on this last night there are a ton of cool things yuo can also add to the menu such as submenus, seperators, and buttons.
+This is the line that connects the signal to another function when you select something. Note that this is how it works in Godot 3.0. The commands in 2.1.4 are different. While working on this last night there are a ton of cool things yuo can also add to the menu such as sub-menus, separators, and buttons.
 
-I highly suggest checking out the offical documentation and trying it out for yourself.
+I highly suggest checking out the official documentation and trying it out for yourself.

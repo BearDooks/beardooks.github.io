@@ -18,4 +18,4 @@ I was playing around with the idea of a PC game where the player has to move aro
 
 # Multiplayer Game
 
-Think Realm of the Mad God type game. I had a decent prototype going, but I am not sure how to have the server running all the time at my house, and then have people join into it. There are alot of question around the game seed that is made, and how I gte it to players joining. Also need to make sure all enemies and players know about one another. I have an issue currently where players see different enemies on the screen since the game is not in sync.
+Think Realm of the Mad God type game. I had a decent prototype going, but I am not sure how to have the server running all the time at my house, and then have people join into it. There are a lot of question around the game seed that is made, and how I gte it to players joining. Also need to make sure all enemies and players know about one another. I have an issue currently where players see different enemies on the screen since the game is not in sync.

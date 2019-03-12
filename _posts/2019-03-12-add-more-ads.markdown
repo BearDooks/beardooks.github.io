@@ -11,4 +11,4 @@ I know that ads on a website are super unpopular, I mean come on how many differ
 
 I have ads on the site for two main reasons. The first being I wanted to learn how they work, and how to add them. On a normal site you add in the code and everything is normal, but on something like Jekyll you need to do it a special way. The second reason, even if I generate $10 in my lifetime using these, that is $10 I didn't have before, so for me that is a plus.
 
-In the spirt of being as open as I possibly can about this, I will say I have only made somehere around $5 currently on the ads, and all of the ads are served by Google AdSense.
+In the spirit of being as open as I possibly can about this, I will say I have only made somewhere around $5 currently on the ads, and all of the ads are served by Google AdSense.

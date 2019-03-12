@@ -25,7 +25,7 @@ Recently I have been working in HTML with <a href="http://getbootstrap.com/" tar
 ### Cons:
 
   * Since I am coding everything by hand it takes a lot longer to get a site up and running. Mostly because I have to make sure I have all my ducks in a row before I start coding anything. This means getting the Header, Footer, and NavBar all setup before I do anything.
-  * Running a Blog on this Framework is a pain in the butt, which is why currently I don&#8217;t do it. You have to code each page by hand, unless you want to make your own wordpress clone, which again goes back to the issue of running your own database and having to learn that, plus the integration into it. Just not my cup of tea
+  * Running a Blog on this Framework is a pain in the butt, which is why currently I don&#8217;t do it. You have to code each page by hand, unless you want to make your own WordPress clone, which again goes back to the issue of running your own database and having to learn that, plus the integration into it. Just not my cup of tea
 
 I will keep pushing myself to learn this, and have even started coding peoples websites with this Framework. Along with the Mebpaa Site&#8230;<a href="http://nutritionforhealthylivingllc.com/" target="_blank">http://nutritionforhealthylivingllc.com/</a> is also running Bootstrap.
 
