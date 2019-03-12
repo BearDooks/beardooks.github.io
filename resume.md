@@ -15,7 +15,7 @@ Current experience with multiple operating system environments as well as virtua
 Microsoft Windows XP * Microsoft Windows Vista * Microsoft Windows 7 * Microsoft Windows 8 * Microsoft Server 2003, 2008, &amp; 2012 * Microsoft Exchange 2003, 2007, 2010* Active Directory * Microsoft Office * Server &amp; Workstation Hardware * IIS 6, 7 * Microsoft Hyper-V * Citrix XenServer * VMware vSphere * DNS * DHCP * Email * Acronis * Asigra * CPanel * Sonicwall * Cisco UCS * Citrix XenApp 5.5, 6.0, 6.5 &amp; 7.x, Citrix XenDesktop 5.x &amp; 7.x
 <strong>PROFESSIONAL EXPERIENCE</strong>
 
-Conning, Hartford, CT                                                                               September 2013 – October 2019
+Conning, Hartford, CT                                                                               September 2013 – October 2018
 
 <strong>AVP - Systems Engineering (</strong>September 2013 – October 2018)
 <ul>
