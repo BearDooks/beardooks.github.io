@@ -45,7 +45,7 @@ owner:
   name:           Chuck Lindblom
   site:           https://www.chucklindblom.com
   avatar:         images/avatar-icon.png
-  bio:            "I am a guy who likes tech, and likes to break code. I have made a game or two for fun, and most of the time I have no idea what I am doing"
+  bio:            "I am a guy who likes tech, and likes to break code. I have made a game or two for fun, and most of the time I have no idea what I am doing. Currently I am working on an unnamed Android / Web Game"
   email:          chuck@chucklindblom.com
   # Twitter nick for use in Twitter cards and follow button.
   twitter: lindblomchuck # if no twitter in this config, the twitter follow button will be removed
