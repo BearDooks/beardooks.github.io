@@ -21,7 +21,7 @@ Not really a surprise seeming that I am a one man team, and I am missing some ke
 
 As I had said before I am working on some other projects that have been taking up most of my free time, which granted is not a lot to start, so I have been behind on everything. I am not just ignoring this game. 
 
-# Housework
+### Housework
 
 I have been putting a lot of time into the house, where I am trying to repair / install / fix anything that is wrong. I still have to refinish the deck, and install new deck railings on both my deck, and the balcony deck. I also have a fence that is going to be installed in about three or so weeks, so that is going to be something. Here is a smaller list of everything else I need to do.
 
@@ -34,13 +34,13 @@ I have been putting a lot of time into the house, where I am trying to repair / 
 
 So there is a bit to do there.
 
-# Arcade
+### Arcade
 
 For Father's Day this year I have asked for some time to work on my arcade in peace and quiet. No kids, wo wife, no mother in law bothering me. I have the tools I need, I have the plans I think? So it comes down to picking if I want just the pedestal, or do I want to build the full cabinet. I think I am leaning more towards the first option since it is easy to move around and I can plug it right into a TV on the wall without issue.
 
 ## Upcoming Work
 
-I don't have much panned for this game in the future. I am still trying to nail down an artist, and maybe someone to help me program it. I think since I am the only one working on these projects, I don;t always have that full investment into them, so it is easier for me to not work on it and be ok with that.
+I don't have much panned for this game in the future. I am still trying to nail down an artist, and maybe someone to help me program it. I think since I am the only one working on these projects, I don't always have that full investment into them, so it is easier for me to not work on it and be ok with that.
 
 ## Changelog
 v0.1.3.1:
