@@ -8,7 +8,7 @@ tags: [Godot, Docker, CentOS, Godot Server, Guide, Nakama]
 
 # Godot Has A Server???
 
-I leanred about Godot server the other day, and I became very interested in it as a replacment for trying to learn Nakama Server. For anyone who is curious you can download the Godot Server <a href="https://godotengine.org/download/server">on their website here.</a> After trying to learn the integration between Nakama and Godot, I realised I had a giant mountain in front of me and I was going to have to learn things like LUA. This was not something I was looking to do right away for simple multiplayer games.
+I learned about Godot server the other day, and I became very interested in it as a replacement for trying to learn Nakama Server. For anyone who is curious you can download the Godot Server <a href="https://godotengine.org/download/server">on their website here.</a> After trying to learn the integration between Nakama and Godot, I realized I had a giant mountain in front of me and I was going to have to learn things like LUA. This was not something I was looking to do right away for simple multiplayer games.
 
 <!--more-->
 
