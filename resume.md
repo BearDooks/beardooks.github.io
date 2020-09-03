@@ -12,12 +12,33 @@ use-site-title: true
 Current experience with multiple operating system environments as well as virtualization. Strong customer service skills, a motivated self-starter.
 
 <strong>TECHNICAL SKILLS</strong>
-Microsoft Windows XP * Microsoft Windows Vista * Microsoft Windows 7 * Microsoft Windows 8 * Microsoft Server 2003, 2008, &amp; 2012 * Microsoft Exchange 2003, 2007, 2010* Active Directory * Microsoft Office * Server &amp; Workstation Hardware * IIS 6, 7 * Microsoft Hyper-V * Citrix XenServer * VMware vSphere * DNS * DHCP * Email * Acronis * Asigra * CPanel * Sonicwall * Cisco UCS * Citrix XenApp 5.5, 6.0, 6.5 &amp; 7.x, Citrix XenDesktop 5.x &amp; 7.x
+Microsoft Windows * Microsoft Server * Microsoft Exchange * Active Directory * Microsoft Office *
+Server &amp; Workstation Hardware * VMware * DNS * DHCP * Email * Backup Solutions * MDM *
+NetApp * Google Apps * LANDesk * Linux * GCP * Azure * Intune * Terraform
 <strong>PROFESSIONAL EXPERIENCE</strong>
 
-Conning, Hartford, CT                                                                               September 2013 – October 2018
+The Jackson Laboratory, Farmington, CT                                                              September 2018 – Present
 
-<strong>AVP - Systems Engineering (</strong>September 2013 – October 2018)
+<strong> Systems Administration / Cloud Administrator</strong>
+
+<ul>
+ <li>Helped manage the needs of multiple different labs to ensure their needs are meet in a timely manner</li>
+ <li>Helped liaison requests between different departments to ensure projects are completed on time</li>
+ <li>Managed day to day operations of multiple projects inside GCP and Azure</li>
+ <li>Created and deployed a new dashboard to help track billing on a per project basis inside of GCP</li>
+ <li>Created and deployed a new admin dashboard to give a single pane of glass look into GCP</li>
+ <li>Migrated 200+ servers to a new virtual environment</li>
+ <li>Support for the needs of the 3000+ employees and scientists for the lab</li>
+ <li>Designed and implemented a plan to migrate from Symantec Encryption to Bitlocker</li>
+ <li>Designed and implanted Intune MDM for the lab</li>
+ <li>Implemented a new Veeam backup and recovery solution for all physical servers</li>
+ <li>Creating a streamlined process for the deployment of new GCP projects using Terraform</li>
+ <li>Worked on implementing a new Covid-19 Clinical Portal for submitting samples to be tested</li>
+</ul>
+
+Conning, Hartford, CT                                                                               September 2013 – September 2018
+
+<strong>AVP - Systems Engineering </strong>(September 2013 – September 2018)
 <ul>
  <li>Help to manage Infrastructure Engineering projects to ensure successful completion on time</li>
  <li>Configured and built new virtual SQL environment on ESX 6.5 and NetApp AFF8080 storage</li>
