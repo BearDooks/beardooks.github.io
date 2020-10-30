@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 gem 'octopress'
 gem 'jekyll-paginate'
+gem 'jekyll-sitemap'
 gem 'neo-hpstr-jekyll-theme'
 
 gem "minima", "~> 2.0"

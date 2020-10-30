@@ -280,6 +280,7 @@ DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
   jekyll-paginate
+  jekyll-sitemap
   minima (~> 2.0)
   neo-hpstr-jekyll-theme
   octopress
