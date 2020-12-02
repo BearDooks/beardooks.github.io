@@ -3,7 +3,7 @@ title: "Using Terraform To Create A GCP Project"
 description: "How to create a GCP project using terraform to have a standard and easy to use method"
 date:  2020-12-02 10:00:00 -0500
 categories: [GCP, Terraform, Guide]
-tags: [GCP, Terraform, GCP Project, Guide]
+tags: [GCP, Terraform, GCP Project, Guide, Scripting]
 author: chuck lindblom
 sharing: true
 show_author_profile: true
