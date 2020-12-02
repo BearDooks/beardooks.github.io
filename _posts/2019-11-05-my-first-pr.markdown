@@ -6,6 +6,7 @@ tags: [Github, Godot, Pull Request, Markdown, Firebase]
 author: chuck lindblom
 sharing: true
 show_author_profile: true
+cover: /assets/images/octocat.png
 ---
 
 ## FIRST PR EVER!!

@@ -6,6 +6,7 @@ tags: [Godot, Game, Dev, Development, '3.1', 3D, looking for artist]
 author: chuck lindblom
 sharing: true
 show_author_profile: true
+cover: /assets/images/godot_logo.png
 ---
 
 # I Am Slacking

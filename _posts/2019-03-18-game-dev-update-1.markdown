@@ -6,6 +6,7 @@ tags: [Godot, Game, Dev, Development, '3.1', 3D, looking for artist]
 author: chuck lindblom
 sharing: true
 show_author_profile: true
+cover: /assets/images/godot_logo.png
 ---
 
 Not to much of an update since I have just started the project, but I wanted to drop in and give an update anyway. I am also going to set this post as kind of a template for how I want to do these in the future so they are all uniform.
