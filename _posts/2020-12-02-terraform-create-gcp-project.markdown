@@ -199,3 +199,15 @@ The following code makes a simple service account inside the project that we can
     account_id   = join("", ["svc-", google_project.project.project_id])
     display_name = join("", ["svc-", google_project.project.project_id])
     }
+
+# Running the terraform script
+
+Running the script is pretty easy. The first step is making sure you have terraform installed by going to <a href="https://www.terraform.io/">their website.</a> Once you have this installed and all the scripts are in the same directory, you can run some simple commands.
+
+To plan the terraform changes, you can run the following command and terraform will print out everything it wants to do
+
+    terraform plan -var="project_name=PROJECT_NAME" -var="project_folder=PROJECT_FOLDER" -var="label1=LABEL1_DATA" 
+
+To apply the terraform changes, you can run the following command and terraform will print out everything it wants to do, and then do it
+
+    terraform apply -var="project_name=PROJECT_NAME" -var="project_folder=PROJECT_FOLDER" -var="label1=LABEL1_DATA" 
