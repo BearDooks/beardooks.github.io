@@ -1,10 +1,11 @@
 ---
-layout: post
 title: "Creating A Simple Menu In PowerShell"
 date: 2015-10-29 20:26:26 -0500
-author: Chuck Lindblom
 categories: [guide]
 tags: [GAM, google, google apps, menu, powershell]
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 
 ## Background:

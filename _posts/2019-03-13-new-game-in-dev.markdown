@@ -2,9 +2,10 @@
 title: "New Game In Dev"
 date: 2019-03-13 14:00:00 -05:00
 categories: [Update]
-tags: [Godot, Game, Dev, Development, 3.1]
-layout: post
-author: Chuck Lindblom
+tags: [Godot, Game, Dev, Development, '3.1']
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 
 Today Godot 3.1 was released to the general public. It just so happens that this morning I was talking to another developer I work with from time to time, and I said when 3.1 is released I have an idea for a new game. I just didn't think it was going to be released as soon as it was, egg on my face.

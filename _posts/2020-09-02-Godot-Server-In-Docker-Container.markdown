@@ -1,9 +1,12 @@
 ---
-layout: post
 title: "Godot Server In Docker Container"
 date:  2020-09-02 10:00:00 -0500
 categories: [Godot, Guide]
 tags: [Godot, Docker, CentOS, Godot Server, Guide, Nakama]
+author: chuck lindblom
+sharing: true
+show_author_profile: true
+cover: /assets/images/godot_logo.png
 ---
 
 # Godot Has A Server???

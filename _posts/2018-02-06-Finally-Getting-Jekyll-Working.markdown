@@ -3,8 +3,9 @@ title: "Finally Getting Jekyll Working"
 date: 2018-02-06 15:20:00 -05:00
 categories: [website, jekyll]
 tags: [jekyll, updates, git, code, source tree, hostgator, web hosting, aws]
-layout: post
-author: Chuck Lindblom
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 
 It took me years to see that paying over $100 for web hosting for a few Wordpress sites and some personal junk was not really working for me anymore. I don't really make any money off of the small ads I have on my site (Thanks for not blocking them if you see them), and I never really asked people for money when I made them a website. I used HostGator for a few years, and to be honest I am glad I am moving away from them. The price was way to high for personal use, and the support was lacking.

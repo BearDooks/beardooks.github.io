@@ -1,11 +1,11 @@
 ---
-layout: post
 title: "Jumping Into Game Maker Studio"
 date: 2015-03-04 10:30:31 -0500
-author: Chuck Lindblom
 categories: [Game Maker Studio]
 tags: [game maker, game maker studio, programming, steam, video games]
-
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 
 Since I was young, I have loved Video Games. To me it was not only a welcomed distraction, it was a way for me to experience the world. The ability to plug in a console and play some games with some friends was more than just a good time, it was life.

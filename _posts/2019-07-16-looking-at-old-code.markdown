@@ -3,15 +3,17 @@ title: "Looking At Old Code"
 date: 2019-07-16 13:20:00 -05:00
 categories: []
 tags: [LightsOut, OldCode, Code, Godot, Android]
-layout: post
-author: Chuck Lindblom
+author: chuck lindblom
+sharing: true
+show_author_profile: true
+cover: /images/lightsout/lightsout_update.png
 ---
 
 ## Thanks Google
 
 This all started when I got the following email from Google Play
 
-<a href="/images/lightsout/lightsout_update.png"><img src="/images/lightsout/lightsout_update.png" alt=""></a>
+![Image](/images/lightsout/lightsout_update.png){:.shadow.rounded}
 
 <!-- more -->
 
@@ -19,7 +21,7 @@ After a quick check I found there was not current way to export an Android app f
 
 I thought the best course at that point would be to use the RC and get the app up there. So I downloaded the RC, put the export templates in there, configured the engine and uploaded my APK. Cut to V1.2 release.
 
-<a href="/images/lightsout/v1_2.png"><img src="/images/lightsout/v1_2.png" alt=""></a>
+![Image](/images/lightsout/v1_2.png){:.shadow.rounded}
 
 Wouldn't you know it that a mere day, nay, hours after my update went live, Godot releases the Stable Client for 2.1.6. After some fighting with myself I downloaded that, compiled it all again, and uploaded 1.2.1 of LightsOut! This time I was able to target API 28 for Android which is another new requirement.
 

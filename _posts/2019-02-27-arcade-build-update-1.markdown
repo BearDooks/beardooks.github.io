@@ -3,8 +3,9 @@ title: "Arcade Build Update 1"
 date: 2019-02-27 10:00:00 -05:00
 categories: [arcade, build]
 tags: [arcade, build, raspberry pi, retropie, emulation stattion, retroarch]
-layout: post
-author: Chuck Lindblom
+author: chuck lindblom
+sharing: true
+show_author_profile: trueindblom
 ---
 
 # The History

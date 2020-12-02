@@ -3,8 +3,9 @@ title: "My First PR"
 date: 2019-11-05 22:00:00 -05:00
 categories: []
 tags: [Github, Godot, Pull Request, Markdown, Firebase]
-layout: post
-author: Chuck Lindblom
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 
 ## FIRST PR EVER!!

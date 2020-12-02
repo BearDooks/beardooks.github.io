@@ -2,9 +2,10 @@
 title: "Game Dev Update #2"
 date: 2019-03-22 17:00:00 -05:00
 categories: [Update]
-tags: [Godot, Game, Dev, Development, 3.1, 3D, looking for artist]
-layout: post
-author: Chuck Lindblom
+tags: [Godot, Game, Dev, Development, '3.1', 3D, looking for artist]
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 
 # Test Scene Is Running

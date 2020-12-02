@@ -3,8 +3,9 @@ title: "Dev Diary First Run"
 date: 2018-04-24 11:05:00 -05:00
 categories: [dev diary]
 tags: [godot, dev diary, ai app, git, github, lessons learned, trello, slack]
-layout: post
-author: Chuck Lindblom
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 
 # Dev Diary 1

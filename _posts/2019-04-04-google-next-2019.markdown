@@ -2,9 +2,10 @@
 title: "Google Next 2019 Here I Come"
 date: 2019-04-04 11:00:00 -05:00
 categories: [Trip]
-tags: [Google, Google Next, 2019, Google Next 2019]
-layout: post
-author: Chuck Lindblom
+tags: [Google, Google Next, '2019', Google Next 2019]
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 
 While this is not normally what I use this blog for, I am writing to let everyone know that I will be attending Google Next 2019 this year. I am pretty excited about it since I am really hoping to get into the cloud space in my job be less into the Sysadmin part of it.

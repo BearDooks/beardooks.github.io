@@ -1,8 +1,6 @@
 ---
-layout: page
 title: Resume
-subtitle: 
-use-site-title: true
+layout: page
 ---
 
 <p style="text-align: center;"><strong>Chuck Lindblom</strong></p>

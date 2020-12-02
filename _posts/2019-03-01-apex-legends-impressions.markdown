@@ -3,8 +3,9 @@ title: "Apex Legends Impressions So Far"
 date: 2019-03-01 19:10:00 -05:00
 categories: [review]
 tags: [EA, Apex, Legends, Apex Legends, Titan Fall, BR, Battle Battle Royale, FPS, Game]
-layout: post
-author: Chuck Lindblom
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 
 <a href="/images/apex_title.jpg"><img src="/images/apex_title.jpg" alt=""></a>

@@ -1,9 +1,11 @@
 ---
-layout: post
 title:  "New Year New Site"
 date:   2018-02-01 09:10:12 -0500
 categories: [jekyll, website]
 tags: [website, new site, jekyll, blog]
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 
 So this year my goal was to cut costs where ever I could. My old hosting provide was bleeding me dry for money, and I always seemed to have an issue with them. Enter [Jekyll][jekyll-engine], a free, simple, and lightweight way to blog using a github repo.

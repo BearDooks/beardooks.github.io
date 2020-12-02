@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "RimWorld &#8211; First Impressions"
 date: 2017-02-02 15:20:00 -0500
-author: Chuck Lindblom
 categories: [review]
 tags: [first impressions, game, pc, review, rimworld, steam]
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
+
 <h1 style="text-align: center;">
   RimWorld
 </h1>

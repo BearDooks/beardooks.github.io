@@ -1,10 +1,13 @@
 ---
-layout: post
 title:  "New Theme Installed"
 date:   2018-02-01 09:30:12 -0500
 categories: [jekyll, update]
 tags: [git, themes, theme, jekyll]
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
+
 Still working on everything, but I finally have a new theme installed on the site and I am getting better at using git to get everything updated and working the way I need it to.
 
 For example, this is what I have been working with in Git just trying to get this site running:

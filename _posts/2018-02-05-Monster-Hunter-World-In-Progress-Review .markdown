@@ -3,8 +3,9 @@ title: Monster Hunter World in progress review
 date: 2018-02-05 15:20:00 -05:00
 categories: [review]
 tags: [first inpressions, game, ps4, review, monster hunter, monster hunter world, in progress, arpg, action, action game, grinding, hunting]
-layout: post
-author: Chuck Lindblom
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 
 <h1 style="text-align: center;">

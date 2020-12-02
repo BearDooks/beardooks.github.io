@@ -2,8 +2,9 @@
 title: "Finally An Update"
 date: 2018-10-18 11:25:00 -05:00
 categories: [update, website, working on it]
-layout: post
-author: Chuck Lindblom
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 
 I know I have not really been working to much on this site recently, but now I feel like I have more time to do so. Recently starting a new job that will do wonders for my work and home life balence should also give me some more time to work on developing. I had some ideas which I will discuss below, but nothing is sticking as out yet.

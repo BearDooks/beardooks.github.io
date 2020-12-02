@@ -1,10 +1,11 @@
 ---
-layout: post
 title: "Setting up Postfix on CentOS7"
 date: 2015-07-01 15:48:26 -0500
-author: Chuck Lindblom
 categories: [guide]
 tags: [centos, centos7, "7", email, linux, postfix, server]
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 The following guide is the step by step instructions I wrote out. These instructions will allow you to install Postfix on CentOS7.
 

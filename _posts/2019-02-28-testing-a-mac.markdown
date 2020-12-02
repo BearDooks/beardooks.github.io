@@ -3,8 +3,9 @@ title: "Testing A Mac"
 date: 2019-02-28 18:00:00 -05:00
 categories: [update]
 tags: [apple, macbook, mac, testing, work]
-layout: post
-author: Chuck Lindblom
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 
 # The Background

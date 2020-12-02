@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "SMTP Tester Powershell"
 date: 2016-06-13 16:17:04 -0500
-author: Chuck Lindblom
 categories: [guide]
 tags: [email, powershell, program, smtp, windows]
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
+
 The below script is a simple method to test if port 25 is open on a server. The script will attempt to connect to the server and send a quick email with a small attachment that it creates on the fly.
 
 <figure>

@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "Working With Slack"
 date: 2017-01-22 08:00:40 -0500
-author: Chuck Lindblom
 categories: [tech news, rants]
 tags: [apps, channels, code, organization, slack, website]
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
+
 Slack is a relatively new product in the market that has had some seriously amazing growth. The Team Communication app has not only broken into the market, it has taken it by storm.
 
 ## What Is Slack?

@@ -1,10 +1,11 @@
 ---
-layout: post
 title: 'Simple Port Checking Tool &#8211; AutoIT'
 date: 2016-06-13 15:53:07 -0500
-author: Chuck Lindblom
 categories: [guide]
 tags: [autoit, ip, port check, tools, windows, auto it]
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 Below you will find some code to make a simple port checking tool in AutoIT. The tools simply asks the user for what IP address or Hostname they want to check, and what port. It will then confirm your entry and show you the result.
 

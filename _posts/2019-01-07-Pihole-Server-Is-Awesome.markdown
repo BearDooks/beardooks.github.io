@@ -3,8 +3,9 @@ title: "Pi-hole Server is Awesome!"
 date: 2019-01-07 11:20:00 -05:00
 categories: [review]
 tags: [review, docker, linux, pihole, DNS]
-layout: post
-author: Chuck Lindblom
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 
 A friend recently asked me if I knew of a good way to block ads on his home network. At the time I didn't, but I started to dig into it more, since this is something I have also been curious about. Ads have become more and more annoying and intrusive to our lives. The people that use them for the right reasons get a bad rap, by the people who hijack browsers with it. I needed to find something, enter Pi-hole.

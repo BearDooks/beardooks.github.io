@@ -3,8 +3,9 @@ title: "Website Revamp"
 date: 2018-11-27 11:25:00 -05:00
 categories: [website]
 tags: [website, updates, jekyll, working on it]
-layout: post
-author: Chuck Lindblom
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 
 The site was in desperate need of an update. Every day GitHub was letting me know that there were errors and risks on the site and that Jekyll was not running the best version. I finally gave in and decided to try and get this thing working to the best of my limited ability.

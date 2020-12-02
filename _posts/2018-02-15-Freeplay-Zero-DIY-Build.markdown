@@ -3,8 +3,9 @@ title: "Freeplay Zero DIY Build"
 date: 2018-02-15 11:05:00 -05:00
 categories: [guide, diy]
 tags: [diy, freeplay tech, gba, arcade, nes, snes, guide]
-layout: post
-author: Chuck Lindblom
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 
 # Freeplaytech DIY Kit

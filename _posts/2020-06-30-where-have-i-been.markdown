@@ -1,9 +1,11 @@
 ---
-layout: post
 title: "Where Have I Been???"
 date:  2020-06-30 10:00:00 -0500
 categories: [news]
 tags: [website]
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 
 # Yeah I know I have been gone a while

@@ -3,8 +3,9 @@ title: "Adding More Ads"
 date: 2019-03-12 19:10:00 -05:00
 categories: [Update]
 tags: [Google, Ads, Website, Update, Ad Revenue]
-layout: post
-author: Chuck Lindblom
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 
 I know that ads on a website are super unpopular, I mean come on how many different ad blocking extensions and programs exist out there today. I get it, I even added an ad blocking server in my house using <a href="https://pi-hole.net/">Pi-Hole</a>, which by the way is awesome.

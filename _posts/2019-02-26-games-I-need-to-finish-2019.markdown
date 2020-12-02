@@ -3,8 +3,9 @@ title: "Games I need to finish or play 2019 edition"
 date: 2019-02-26 11:00:00 -05:00
 categories: [games]
 tags: [games, list, PS4, Switch, Nintendo, Xbox, PC]
-layout: post
-author: Chuck Lindblom
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 
 In a recent conversation with a good friend of mine, we started to discuss games were are playing or need to play. As we went on, it became very apparent to the both of us that the list is huge and keeps growing. We just never seem to finish anything, or we play a game that is to long and by the time we truly get into the meat and bones of it, something else has come around.

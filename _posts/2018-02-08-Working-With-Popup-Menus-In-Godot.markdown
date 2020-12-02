@@ -3,8 +3,9 @@ title: "Working With Popup Menus In Godot"
 date: 2018-02-08 11:20:00 -05:00
 categories: [guide, godot]
 tags: [godot, godot 3.0, godot 3, popup menu, programming, guide]
-layout: post
-author: Chuck Lindblom
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 
 # Popup Menus In Godot

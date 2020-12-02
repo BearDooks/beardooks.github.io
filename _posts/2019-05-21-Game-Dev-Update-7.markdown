@@ -2,9 +2,10 @@
 title: "Game Dev Update #7"
 date: 2019-05-21 17:00:00 -05:00
 categories: [Update]
-tags: [Godot, Game, Dev, Development, 3.1, 3D, looking for artist]
-layout: post
-author: Chuck Lindblom
+tags: [Godot, Game, Dev, Development, '3.1', 3D, looking for artist]
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 
 ## Small Update

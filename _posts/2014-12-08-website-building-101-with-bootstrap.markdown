@@ -1,9 +1,11 @@
 ---
-layout: post
 title: "Website Building 101 with Bootstrap"
 date: 2014-12-08 00:04:20 -0500
 categories: [Site news]
 tags: [bootstrap, building, css, html, html5, website, website building]
+author: chuck lindblom
+sharing: true
+show_author_profile: true
 ---
 
 Recently I have been working in HTML with <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>. Bootstrap is a simple framework, yet crazy powerful tool for building websites. To be 100% honest with you I enjoy using it more than WordPress these days. I find it much easier to use, and I don&#8217;t have to worry about plugins needing to be updated every other day, or people hacking into a database.
@@ -18,7 +20,6 @@ Recently I have been working in HTML with <a href="http://getbootstrap.com/" tar
 ### Pros:
 
   * The best part about this whole thing is the lack of a Database. I enjoy using WordPress, don&#8217;t get me wrong, but the whole database side of things is crazy to me. What if the site got big, I would need to hire someone to manage the day to day with the Database just so I could sleep at night.
-  * The lack of needed to find a theme I like, and then try to rip it apart is really nice. The bootstrap framework really always me to just go. Most of the time can find a simple shell of a site online with the layout I want, and I am talking bare bones, like placement, not even colors. The from there I just let the mind take over and do the rest.
   <!--more-->
   *  Since I am writing everything in PHP, with some MySQL in the background if I need it, for example with the site <a href="http://mebpaa.com" target="_blank">http://mebpaa.com</a>, everything just flows nicely. I don&#8217;t need to find someone who has a similar need for a plugin that I do, and then sort through the 5000 copies that the plugin has. Half of them are probably tracking your data.
 
