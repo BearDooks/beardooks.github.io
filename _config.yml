@@ -118,7 +118,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: gitalk # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
@@ -127,12 +127,12 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : # GitHub Application Client ID
-    clientSecret: # GitHub Application Client Secret
-    repository  : # GitHub repo
-    owner       : # GitHub repo owner
+    clientID    : 99975e2e55f995639164 # GitHub Application Client ID
+    clientSecret: 4c9c755d5eec8f18633cbe4fe73fd463f3d6de23 # GitHub Application Client Secret
+    repository  : BearDooks/WebsiteComments # GitHub repo
+    owner       : BearDooks # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      # - your GitHub Id
+      BearDooks # - your GitHub Id
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
