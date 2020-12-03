@@ -20,9 +20,9 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: tomorrow-night-blue # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://www.chucklindblom.com # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Chucklindblom.com
+title   : Chucklindblom.com - IT Guides, News Articles, and Random Thoughts
 description: > # this means to ignore newlines until "Language & timezone"
-  A Site For Tech News And General Hoop-La…
+  A site dedicated to technology news, guides for home development, progress on applications, and random thoughts from an seasoned 'IT Professional'. 
 
 
 ## => Language and Timezone
